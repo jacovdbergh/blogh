@@ -5,7 +5,7 @@ title: Hosting a Jigsaw by Tighten site on Cloudflare for free
 date: 2021-07-22
 description: Setting up a Jigsaw site and Cloudflare Workers to host it
 categories: [configuration]
-cover_image: /assets/img/jigsaw-on-tighten.png
+cover_image: /assets/img/jigsaw-on-cloudflare.png
 featured: true
 # excerpt: This starter template comes pre-loaded with Tailwind CSS, a utility CSS framework that allows you to customize and build complex designs without touching a line of CSS.
 ---
