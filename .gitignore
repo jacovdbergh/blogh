@@ -1,4 +1,5 @@
 /build_*/
+/source/assets/build/
 /node_modules/
 /vendor/
 .DS_Store
