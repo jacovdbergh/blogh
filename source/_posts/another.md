@@ -1,12 +1,13 @@
 ---
 extends: _layouts.post
 section: content
-title: Hosting a Jigsaw by Tighten site on Cloudflare for free
-date: 2021-07-22
-description: Setting up a Jigsaw site and Cloudflare Workers to host it
-categories: [dev]
-cover_image: /assets/img/jigsaw-plus-cloudflare.png
+title: Another random post
+date: 2021-07-21
+description: Something to test with
+categories: [configuration]
+cover_image: /assets/img/jigsaw-on-cloudflare-transparent.png
 featured: true
+excerpt: This starter template comes pre-loaded with Tailwind CSS, a utility CSS framework that allows you to customize and build complex designs without touching a line of CSS.
 ---
 
 Jigsaw by Tighten is an open source package that allows you to easily generate a static website, for your blog or your project's documentation.
