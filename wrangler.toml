@@ -1,0 +1,11 @@
+name = "blogh"
+type = "webpack"
+route = 'blogh.bergh.tech/*'
+zone_id = '1137d90343004568a003507c76c75e40'
+account_id = "4a483ef8336e67807dd8c00ed6a981ff"
+usage_model = ''
+workers_dev = false
+
+[site]
+bucket = "./build_production"
+entry-point = "workers-site"
