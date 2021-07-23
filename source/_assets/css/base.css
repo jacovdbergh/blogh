@@ -63,7 +63,7 @@ h1 {
 
 h2 {
     @apply text-4xl;
-    @apply font-bold;
+    @apply font-semibold;
 }
 
 h3 {
