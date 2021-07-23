@@ -14,12 +14,12 @@
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/about') ? 'active text-green-500' : 'text-green-600 hover:text-green-500' }}"
             >About</a>
         </li>
-        <li class="pl-4">
+        {{-- <li class="pl-4">
             <a
                 title="{{ $page->siteName }} Contact"
                 href="/contact"
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/contact') ? 'active text-green-500' : 'text-green-600 hover:text-green-500' }}"
             >Contact</a>
-        </li>
+        </li> --}}
     </ul>
 </nav>

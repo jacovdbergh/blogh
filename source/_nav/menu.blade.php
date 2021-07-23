@@ -8,9 +8,9 @@
         class="ml-6 text-green-700 hover:text-green-600 {{ $page->isActive('/about') ? 'active text-green-600' : '' }}">
         About
     </a>
-
+{{-- 
     <a title="{{ $page->siteName }} Contact" href="/contact"
         class="ml-6 text-green-700 hover:text-green-600 {{ $page->isActive('/contact') ? 'active text-green-600' : '' }}">
         Contact
-    </a>
+    </a> --}}
 </nav>

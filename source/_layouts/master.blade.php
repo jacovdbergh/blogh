@@ -31,8 +31,9 @@
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         {{-- <img class="h-8 mr-3 md:h-10" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> --}}
+                        <div class="flex items-baseline justify-center w-12 h-12 p-0.5 text-4xl font-bold text-red-500 bg-green-400 rounded">b</div>
 
-                        <h1 class="my-0 text-lg font-semibold text-red-500 uppercase md:text-2xl hover:text-red-600">{{ $page->siteName }}</h1>
+                        {{-- <h1 class="my-0 text-lg font-semibold text-red-500 uppercase md:text-2xl hover:text-red-600">{{ $page->siteName }}</h1> --}}
                     </a>
                 </div>
 

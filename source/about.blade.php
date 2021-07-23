@@ -5,15 +5,16 @@ description: A little bit about the site
 @extends('_layouts.master')
 
 @section('body')
-    <h1>About</h1>
+    <h1>About Jaco</h1>
+    <p class="-mt-4 text-sm text-green-600">husband • father • computer engineer</p>
 
-    <img src="/assets/img/about.png"
+    <img src="/assets/img/headshot.png"
         alt="About image"
-        class="flex rounded-full h-64 w-64 bg-contain mx-auto md:float-right my-6 md:ml-10">
+        class="flex w-64 h-64 mx-auto my-6 bg-contain rounded-full md:float-right md:ml-10">
 
-    <p class="mb-6">This is where you can give a little more information about yourself or site. If you'd like to change the structure of this page, you can find the file at <code>source/about.blade.php</code></p>
+    <p class="mb-6">I'm Jaco van den Bergh. By day, I do software development for a ticketing company in South Africa. In my free time I like to build and hack on things that makes me excited or my life easier.</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam possimus earum harum itaque est!</p>
+    <p class="mb-6">You can follow me on Twitter, <a target="_blank" href="https://twitter.com/jacovdbergh">@jacovdbergh</a>, or see what I'm up to on Instagram, also <a target="_blank" href="https://instagram.com/jacovdbergh">@jacovdbergh</a></p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam!</p>
+    <p class="mb-6">Feel free to reach out to me on Twitter about any of the content on this site, I'll gladly discuss things with you or assist where I can.</p>
 @endsection
