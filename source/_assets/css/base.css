@@ -58,7 +58,7 @@ h6 {
 
 h1 {
     @apply text-5xl;
-    @apply font-extrabold;
+    @apply font-bold;
 }
 
 h2 {
@@ -68,7 +68,7 @@ h2 {
 
 h3 {
     @apply text-3xl;
-    @apply font-bold;
+    @apply font-medium;
 }
 
 h4 {
