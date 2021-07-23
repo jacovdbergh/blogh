@@ -26,7 +26,7 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen font-sans leading-normal text-gray-800 bg-green-100">
-        <header class="flex items-center h-24 py-4 border-b shadow" role="banner">
+        <header class="flex items-center h-24 py-4" role="banner">
             <div class="container flex items-center px-4 mx-auto max-w-8xl lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
