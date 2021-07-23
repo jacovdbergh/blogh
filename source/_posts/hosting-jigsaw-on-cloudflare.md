@@ -49,7 +49,12 @@ To setup Workers Sites for your Jigsaw project, [follow these steps](https://dev
 
 Keep the API token you create for Wrangler, as you'll need it a bit later.
 
-One last thing that's not mentioned in their guide, if your project will live on a subdomain, you need to  [add a DNS entry](https://developers.cloudflare.com/workers/platform/routes#subdomains-must-have-a-dns-record) for that subdomain to `100::`
+Then just two more things are needed to complete the setup:
+1. Update the path for the 404 handler in `workers-site/index.js`, on line 62 at time of writing, from `404.html` to `404/index.html`
+```js
+mapRequestToAsset: req => new Request(`${new URL(req.url).origin}/404/index.html`, req),
+```
+2. If your project will live on a subdomain, you need to  [add a DNS AAAA record](https://developers.cloudflare.com/workers/platform/routes#subdomains-must-have-a-dns-record) for that subdomain to `100::`
 
 ## GitHub Actions
 
@@ -57,7 +62,7 @@ To really round of this solution, we'll configure GitHub Actions to generate and
 
 This of course assumes you use GitHub to host your project's code.
 
-Create a file called `deploy.yaml` in `.github\workflows` in your Jigsaw project, and paste the following content in there:
+Create `.github/workflows/deploy.yaml` in your Jigsaw project, and paste the following content in there:
 
 ```yaml
 name: Deploy
