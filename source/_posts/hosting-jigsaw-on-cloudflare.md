@@ -61,4 +61,5 @@ class Foo extends bar
         //
     }
 }
-``` -->
+```
+-->
