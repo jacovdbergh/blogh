@@ -18,7 +18,7 @@ We'll also set up GitHub Actions to automatically deploy new versions of the sit
 
 ## Why
 
-When I started thinking about getting a blog up and running, I looked around for what existing frameworks and technologies existed. I wanted to get off the ground quickly, so settled for ripping a news content section from one of my old Laravel projects.
+When I started thinking about getting a blog up and running, I looked around for what existing frameworks and technologies existed in the blogosphere. But, I also wanted to get off the ground quickly, so settled for ripping a news content section from one of my old Laravel projects.
 
 I then told a colleague of mine, [George Boot](https://georgeboot.nl), about my intentions to start a blog, and he suggested I use Jigsaw instead.
 
@@ -81,7 +81,6 @@ jobs:
       - uses: shivammathur/setup-php@v2
         with:
           php-version: '8.0'
-          extensions: curl, dom, simplexml, soap, bcmath, mbstring, zip
 
       - uses: ramsey/composer-install@v1
         with:
