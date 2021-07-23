@@ -25,14 +25,14 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
 
-    <body class="flex flex-col justify-between min-h-screen font-sans leading-normal text-gray-800 bg-gray-100">
-        <header class="flex items-center h-24 py-4 bg-white border-b shadow" role="banner">
+    <body class="flex flex-col justify-between min-h-screen font-sans leading-normal text-gray-800 bg-green-100">
+        <header class="flex items-center h-24 py-4 border-b shadow" role="banner">
             <div class="container flex items-center px-4 mx-auto max-w-8xl lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         <img class="h-8 mr-3 md:h-10" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
 
-                        <h1 class="my-0 text-lg font-semibold text-blue-800 md:text-2xl hover:text-blue-600">{{ $page->siteName }}</h1>
+                        <h1 class="my-0 text-lg font-semibold text-red-500 md:text-2xl hover:text-red-600">{{ $page->siteName }}</h1>
                     </a>
                 </div>
 
@@ -52,7 +52,7 @@
             @yield('body')
         </main>
 
-        <footer class="py-4 mt-12 text-sm text-center bg-white" role="contentinfo">
+        <footer class="py-4 mt-12 text-sm text-center" role="contentinfo">
             <ul class="flex flex-col justify-center list-none md:flex-row">
                 <li class="md:mr-2">
                     &copy; <a href="https://bergh.tech" title="Bergh Tech website">Bergh Tech</a> {{ date('Y') }}.

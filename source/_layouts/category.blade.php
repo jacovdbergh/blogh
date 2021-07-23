@@ -3,7 +3,7 @@
 @section('body')
     <h1>{{ $page->title }}</h1>
 
-    <div class="pb-10 mb-6 text-2xl border-b border-blue-200">
+    <div class="pb-10 mb-6 text-2xl border-b border-green-200">
         @yield('content')
     </div>
 
