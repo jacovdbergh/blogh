@@ -3,16 +3,16 @@ extends: _layouts.post
 section: content
 title: Hosting a Jigsaw site on Cloudflare for free
 date: 2021-07-22
-description: Setting up a Jigsaw site and hosting it with Cloudflare workers
+description: Host your Jigsaw site with Cloudflare Workers, without paying a cent.
 categories: [dev]
 cover_image: /assets/img/jigsaw_cf.png
 featured: true
-excerpt: Setting up a Jigsaw site and hosting it with Cloudflare workers, without paying a cent.
+excerpt: Host your Jigsaw site with Cloudflare Workers, without paying a cent.
 ---
 
 Jigsaw by Tighten is an open source package that allows you to easily generate a static website, for your blog or your project's documentation.
 
-In this post we'll walk through the steps needed to host a Jigsaw generated website on Cloudflare, using Cloudflare workers.
+In this post we'll walk through the steps needed to host a Jigsaw generated website on Cloudflare, using Cloudflare Workers.
 
 We'll also set up GitHub Actions to automatically deploy new versions of the site when new content is pushed.
 
