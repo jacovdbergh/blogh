@@ -30,9 +30,9 @@
             <div class="container flex items-center px-4 mx-auto max-w-8xl lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-8 mr-3 md:h-10" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
+                        {{-- <img class="h-8 mr-3 md:h-10" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> --}}
 
-                        <h1 class="my-0 text-lg font-semibold text-red-500 md:text-2xl hover:text-red-600">{{ $page->siteName }}</h1>
+                        <h1 class="my-0 text-lg font-semibold text-red-500 uppercase md:text-2xl hover:text-red-600">{{ $page->siteName }}</h1>
                     </a>
                 </div>
 
@@ -54,13 +54,13 @@
 
         <footer class="py-4 mt-12 text-sm text-center" role="contentinfo">
             <ul class="flex flex-col justify-center list-none md:flex-row">
-                <li class="md:mr-2">
-                    &copy; <a href="https://bergh.tech" title="Bergh Tech website">Bergh Tech</a> {{ date('Y') }}.
+                <li>
+                    &copy; <a href="https://bergh.tech" title="Bergh Tech website">Bergh Tech</a> {{ date('Y') }}
                 </li>
-
+                <li class="hidden px-2 md:inline">•</li>
                 <li>
                     Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>
                 </li>
             </ul>
         </footer>
