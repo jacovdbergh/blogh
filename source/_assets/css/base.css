@@ -107,11 +107,11 @@ ul {
 }
 
 ol {
-    @apply list-decimal;
+    @apply list-decimal list-inside;
 }
 
 ul {
-    @apply list-disc;
+    @apply list-disc list-inside;
 }
 
 p {

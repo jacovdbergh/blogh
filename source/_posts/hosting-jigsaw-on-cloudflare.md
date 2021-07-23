@@ -20,7 +20,7 @@ We'll also set up GitHub Actions to automatically deploy new versions of the sit
 
 When I started thinking about getting a blog up and running, I looked around for what existing frameworks and technologies existed. I wanted to get off the ground quickly, so settled for ripping a news content section from one of my old Laravel projects.
 
-I then told a colleague of mine, [George Boot](https://georgeboot.nl), about my intentions to start a blog, and he suggested Jigsaw.
+I then told a colleague of mine, [George Boot](https://georgeboot.nl), about my intentions to start a blog, and he suggested I use Jigsaw instead.
 
 ## Jigsaw
 
@@ -35,7 +35,7 @@ This post will not go into the detail of setting up a Jigsaw project, but assume
 
 Jigsaw lists [a number of easy ways](https://jigsaw.tighten.co/docs/deploying-your-site/) to host your generated site.
 
-GitHub Pages looked really easy, but seeing as my DNS is already in Cloudflare, I opted to go for [Cloudflare Workers Sites](https://developers.cloudflare.com/workers/platform/sites).
+GitHub Pages looked really easy, but seeing as my DNS was already in Cloudflare, I opted to go for [Cloudflare Workers Sites](https://developers.cloudflare.com/workers/platform/sites).
 
 ## Cloudflare Workers Sites
 
