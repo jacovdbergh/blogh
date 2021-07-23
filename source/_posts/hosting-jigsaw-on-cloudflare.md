@@ -5,7 +5,7 @@ title: Hosting a Jigsaw site on Cloudflare for free
 date: 2021-07-22
 description: Setting up a Jigsaw site and hosting it with Cloudflare workers
 categories: [dev]
-cover_image: /assets/img/jigsaw-plus-cloudflare.png
+cover_image: /assets/img/jigsaw_cf.png
 featured: true
 exerpt: Setting up a Jigsaw site and hosting it with Cloudflare workers, without paying a cent.
 ---
