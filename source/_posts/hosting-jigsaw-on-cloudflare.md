@@ -1,12 +1,13 @@
 ---
 extends: _layouts.post
 section: content
-title: Hosting a Jigsaw by Tighten site on Cloudflare for free
+title: Hosting a Jigsaw site on Cloudflare for free
 date: 2021-07-22
-description: Setting up a Jigsaw site and Cloudflare Workers to host it
+description: Setting up a Jigsaw site and hosting it with Cloudflare workers
 categories: [dev]
 cover_image: /assets/img/jigsaw-plus-cloudflare.png
 featured: true
+exerpt: Setting up a Jigsaw site and hosting it with Cloudflare workers, without paying a cent.
 ---
 
 Jigsaw by Tighten is an open source package that allows you to easily generate a static website, for your blog or your project's documentation.
