@@ -15,6 +15,7 @@ module.exports = {
     },
     theme: {
         extend: {
+            
             fontFamily: {
                 sans: ['"Nunito Sans"', ...defaults.fontFamily.sans],
             },
@@ -28,6 +29,34 @@ module.exports = {
             boxShadow: {
                 search: '0 -1px 27px 0 rgba(0, 0, 0, 0.04), 0 4px 15px 0 rgba(0, 0, 0, 0.08)',
             },
+            colors: {
+                'green': {
+                    DEFAULT: '#5D806E',
+                    '50': '#EAF0ED',
+                    '100': '#DAE4DF',
+                    '200': '#B9CCC2',
+                    '300': '#99B5A6',
+                    '400': '#789D8A',
+                    '500': '#5D806E',
+                    '600': '#4A6557',
+                    '700': '#364B40',
+                    '800': '#233029',
+                    '900': '#101613'
+                },
+                'red': {
+                    DEFAULT: '#C02A1B',
+                    '50': '#FAE0DD',
+                    '100': '#F7C9C5',
+                    '200': '#F09C93',
+                    '300': '#E96E62',
+                    '400': '#E24131',
+                    '500': '#C02A1B',
+                    '600': '#982115',
+                    '700': '#701810',
+                    '800': '#47100A',
+                    '900': '#1F0704'
+                },
+            }
         },
         fontSize: {
             xs: '.8rem',
