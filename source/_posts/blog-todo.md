@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: List of things to still write about
+title: My blog todo list
 date: 2021-07-23
 description: I need to keep a list of things I want to write about, why not here?
 excerpt: I need to keep a list of things I want to write about, why not here?
