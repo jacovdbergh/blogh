@@ -6,7 +6,7 @@ description: A little bit about the site
 
 @section('body')
     <h1>About Jaco</h1>
-    <p class="-mt-4 text-sm text-green-600">husband • father • computer engineer</p>
+    <p class="-mt-4 text-sm text-green-600">husband&nbsp;&nbsp;•&nbsp;&nbsp;father&nbsp;&nbsp;•&nbsp;&nbsp;computer engineer</p>
 
     <img src="/assets/img/headshot.png"
         alt="About image"
