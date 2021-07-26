@@ -56,7 +56,7 @@
         <footer class="py-4 mt-12 text-sm text-center" role="contentinfo">
             <ul class="flex flex-col justify-center list-none md:flex-row">
                 <li>
-                    &copy; <a href="https://bergh.tech" title="Bergh Tech website">Bergh Tech</a> {{ date('Y') }}
+                    &copy; <a href="https://blogh.bergh.tech" title="Bergh Tech website">Jaco van den Bergh</a> {{ date('Y') }}
                 </li>
                 <li class="hidden px-2 md:inline">•</li>
                 <li>
