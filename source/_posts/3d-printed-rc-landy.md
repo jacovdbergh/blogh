@@ -4,9 +4,9 @@ section: content
 title: Printing and building a 3DSets.com Landy
 date: 2021-07-26
 cover_image: /assets/img/landy.png
-description: A series of posts from buying the model files to connecting the battery one day
-excerpt: A series of posts from buying the model files to connecting the battery one day
-categories: [rc-landy 3d-printing]
+description: A series of posts from buying the model files to connecting the battery one day.
+excerpt: A series of posts from buying the model files to connecting the battery one day.
+categories: [rc-landy,3d-printing]
 featured: true
 
 ---
@@ -24,6 +24,14 @@ And that struck a chord.
 See, I own a 2001 Land Rover Defender TD5. It's our holiday vehicle, and it's given us many kilometers of joy and taken us to places most other cars wouldn't.
 
 So when I saw the model RC one, I just knew I had to build one. I told the wife our almost 2 year old son will love it, but in reality it's going to be a couple of years before he can appreciate and play with it. Which means by then I'd have built him his own one 😉.
+
+A short list of its most exciting features:
+```
+- XXL size – 54 cm long!
+- redesigned gearbox with more durable gears
+- realistic body details, embossed into the part surface
+- detailed interior
+```
 
 ## Sourcing parts
 
