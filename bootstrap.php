@@ -24,8 +24,8 @@ $container->singleton('markdownParser', function ($c) {
         public function __construct()
         {
             $this->parser = new \League\CommonMark\CommonMarkConverter([
-                'html_input' => 'strip',
-                'allow_unsafe_links' => false,
+                // 'html_input' => 'strip',
+                'allow_unsafe_links' => true,
             ]);
         }
         public function parse($text)

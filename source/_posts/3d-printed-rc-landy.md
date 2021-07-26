@@ -52,7 +52,7 @@ One snag, their Funkiments filament does not come on a spool. You need to either
 
 The hardboard sides were sold out, so I had to print the whole thing, which took more than 24 hours in printing time in total.
 
-![Funkiments printed spool, with black PLA loaded](/assets/img/funkiments_spool.jpg "Funkiments printed spool, with black PLA loaded")
+<x-image src="/assets/img/funkiments_spool.jpg" title="Funkiments printed spool, with black PLA loaded" />
 
 But I now have a spool, and could continue with printing the calibration part, which is Print 0 in the list of 39 prints for the model.
 
@@ -66,6 +66,6 @@ So I bought just one bearing from them, to do calibration with, and will try and
 
 I printed Print 0, the calibration block, on 100% scale, which was too tight. Then on 101% which was too loose. So then tried 100,5%, which resulted in a fit which was just right.
 
-![Calibration prints](/assets/img/calibration.png "Calibration prints")
+<x-image src="/assets/img/calibration.png" title="Calibration prints" />
 
 Third time's the charm, and looks like I have to print all the parts at 100,5% scale for a snug fit.
