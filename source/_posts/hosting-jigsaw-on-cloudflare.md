@@ -6,7 +6,6 @@ date: 2021-07-22
 description: Host your Jigsaw site with Cloudflare Workers, without paying a cent.
 categories: [dev]
 cover_image: /assets/img/jigsaw_cf.png
-featured: true
 excerpt: Host your Jigsaw site with Cloudflare Workers, without paying a cent.
 ---
 
