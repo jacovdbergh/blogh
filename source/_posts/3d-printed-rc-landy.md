@@ -71,3 +71,29 @@ I printed Print 0, the calibration block, on 100% scale, which was too tight. Th
 <x-image src="/assets/img/calibration.png" title="Calibration prints" />
 
 Third time's the charm, and looks like I have to print all the parts at 100,5% scale for a snug fit.
+
+I managed to find 19 more at a reasonable price at a hobby shop, so need only 8 more.
+
+### Screws and nuts
+
+I went to two bolts and nuts stores, and managed to find almost everything on the list.
+
+Only need the following now:
+
+- 15 x M2x6
+- 6 x M2x8
+- 6 x M2x12
+- 6 x M2x14
+
+<x-image src="/assets/img/bolts_and_nuts.jpg" title="Lots of bolts and nuts" />
+
+
+### The rest
+
+After a lot of basket compiling and reading about Aramex Global Shopper on forums, I decided to suck it up and go to a rather big hobby shop nearby.
+
+They had everything I needed, albeit at a bit of a premium compared to the prices I was used to Aliexpress.
+
+### Radio and receiver
+
+*Still need to buy this, forgot about it at the hobby shop.*

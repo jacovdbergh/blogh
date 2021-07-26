@@ -15,6 +15,9 @@ return [
             'author' => 'Jaco van den Bergh', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
+            'filter' => function ($item) {
+                return $item->published ?? true;
+            },
         ],
         'categories' => [
             'path' => '/blog/categories/{filename}',
