@@ -27,10 +27,13 @@ So when I saw the model RC one, I just knew I had to build one. I told the wife 
 
 A short list of its most exciting features:
 ```
-- XXL size – 54 cm long!
-- redesigned gearbox with more durable gears
-- realistic body details, embossed into the part surface
-- detailed interior
+- 54 cm long, 24.5 cm wide (including mirrors), 22.5 cm high
+- Model weighs roughly 3,5 kg (including battery)
+- Permanent 4 wheel drive, all differentials are in the locked state
+- Remote controlled steering and speed control
+- Suspension with real springs and dampers for good off-road capabilities
+- Reduction gearbox with 1:40 gear ratio for slow motion and high torque
+- Doors, hood, and trunk can be manually opened
 ```
 
 ## Sourcing parts
