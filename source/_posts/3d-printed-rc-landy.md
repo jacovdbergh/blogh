@@ -26,7 +26,7 @@ See, I own a 2001 Land Rover Defender TD5. It's our holiday vehicle, and it's gi
 So when I saw the model RC one, I just knew I had to build one. I told the wife our almost 2 year old son will love it, but in reality it's going to be a couple of years before he can appreciate and play with it. Which means by then I'd have built him his own one 😉.
 
 A short list of its most exciting features:
-```
+
 - 54 cm long, 24.5 cm wide (including mirrors), 22.5 cm high
 - Model weighs roughly 3,5 kg (including battery)
 - Permanent 4 wheel drive, all differentials are in the locked state
@@ -34,7 +34,6 @@ A short list of its most exciting features:
 - Suspension with real springs and dampers for good off-road capabilities
 - Reduction gearbox with 1:40 gear ratio for slow motion and high torque
 - Doors, hood, and trunk can be manually opened
-```
 
 ## Sourcing parts
 
