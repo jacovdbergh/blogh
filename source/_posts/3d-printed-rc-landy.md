@@ -76,7 +76,7 @@ I managed to find 19 more at a reasonable price at a hobby shop, so need only 8 
 
 ### Screws and nuts
 
-I went to two bolts and nuts stores, and managed to find almost everything on the list.
+I went to two bolts and nuts stores, and managed to find almost everything I need.
 
 Only need the following now:
 
@@ -92,8 +92,12 @@ Only need the following now:
 
 After a lot of basket compiling and reading about Aramex Global Shopper on forums, I decided to suck it up and go to a rather big hobby shop nearby.
 
-They had everything I needed, albeit at a bit of a premium compared to the prices I was used to Aliexpress.
+They had almost everything I needed, albeit at a bit of a premium compared to the prices I was used to Aliexpress.
 
 ### Radio and receiver
 
-*Still need to buy this, forgot about it at the hobby shop.*
+Still need to buy this, forgot about it at the hobby shop. Woops.
+
+### Tires
+
+Crawler tires are expensive! And there's a lot of options, so I decided to wait until I have the rims printed, to do some fitting before buying.
