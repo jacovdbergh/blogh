@@ -40,16 +40,32 @@ This is still an ongoing task, as it's not that easy to find everything you need
 So this section will still be expanded as I manage to find all the parts I need.
 
 ### Filament
-*Funkiments*
+The build guide states you need ~3kg of PLA to print this model; 2kg for the chassis and gearbox/drivetrain, and 1kg for the body.
+
+I've had great success with eSun's PLA+ filament in the past, it just prints without any issues.
+
+But locally, the shop that supplies it is located in Durban. And it just so happens that [Durban was not a very good place to be](https://www.bbc.com/news/world-africa-57822460) at the time I wanted to order.
+
+So I started looking around for other options, and found a highly recommended locally manufactured filament: [Funkiments](https://www.funkiments.co.za/). They unfortunately do not have a green I'd like for the body, but I ordered 2kg of black and 1kg of white PLA.
+
+One snag, their Funkiments filament does not come on a spool. You need to either order 2 hardboard sides and print a core, or [print a whole spool](https://www.funkiments.co.za/2020/11/12/how-to-use-our-printed-filament-spool/).
+
+The hardboard sides were sold out, so I had to print the whole thing, which took more than 24 hours in printing time in total.
+
+![Funkiments printed spool, with black PLA loaded](/assets/img/funkiments_spool.jpg "Funkiments printed spool, with black PLA loaded")
+
+But I now have a spool, and could continue with printing the calibration part, which is Print 0 in the list of 39 prints for the model.
 
 ### Bearings
 
 28 x 6700ZZ bearings.
 
-A local bearing shop charges R75 (~\$6) ea., which works out to R2100 (\$150) just for the bearings. That's half the price of a [Tamiya kit](https://jixhobbies.co.za/collections/r-c-crawler-trucks/products/tam58657) that includes almost everything you need to build an RC Landy...
+I went to a local bearing shop, and they charge R75 (~\$6) for one bearing, which works out to R2100 (\$150) in total. That's half the price of a [Tamiya kit](https://jixhobbies.co.za/collections/r-c-crawler-trucks/products/tam58657) that includes almost everything you need to build an RC Landy...
 
 So I bought just one bearing from them, to do calibration with, and will try and find the rest somewhere else.
 
-![Calibration prints](/assets/img/calibration.png "Logo Title Text 1")
+I printed Print 0, the calibration block, on 100% scale, which was too tight. Then on 101% which was too loose. So then tried 100,5%, which resulted in a fit which was just right.
+
+![Calibration prints](/assets/img/calibration.png "Calibration prints")
 
 Third time's the charm, and looks like I have to print all the parts at 100,5% scale for a snug fit.
