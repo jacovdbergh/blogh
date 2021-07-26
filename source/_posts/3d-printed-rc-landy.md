@@ -4,8 +4,9 @@ section: content
 title: Printing and building a 3DSets.com Landy
 date: 2021-07-26
 cover_image: /assets/img/landy.png
-description: First post of the process of building a 3D printed remote control Landy model
-excerpt: First post of the process of building a 3D printed remote control Landy model
+description: A series of posts from buying the model files to connecting the battery one day
+excerpt: A series of posts from buying the model files to connecting the battery one day
+categories: [rc-landy 3d-printing]
 featured: true
 
 ---
