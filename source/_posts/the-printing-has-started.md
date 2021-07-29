@@ -19,6 +19,8 @@ I started assembling the first parts as soon as I had them printed.
 
 <x-image src="/assets/img/printing_has_started.jpg" title="Assembling the first parts" />
 
+<p></p>
+
 <x-image src="/assets/img/servo_in_its_place.jpg" title="Servo mounted snugly in its place" />
 
 The shocks that I bought was a Tamiya kit, that required assembly. They had all sorts of configurations with spacers for different lengths and stiffness, but I managed to put 4 together in what I think will work for the Landy.
