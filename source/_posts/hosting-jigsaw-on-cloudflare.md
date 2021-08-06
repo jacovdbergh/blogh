@@ -53,6 +53,15 @@ Then just two more things are needed to complete the setup:
 ```js
 mapRequestToAsset: req => new Request(`${new URL(req.url).origin}/404/index.html`, req),
 ```
+*Edit:*
+Step 1 is unnecessarily complex, you can just add
+```
+---
+permalink: 404.html
+---
+```
+to the top of your 404.blade.html file instead.
+
 2. If your project will live on a subdomain, you need to  [add a DNS AAAA record](https://developers.cloudflare.com/workers/platform/routes#subdomains-must-have-a-dns-record) for that subdomain to `100::`
 
 ## GitHub Actions
