@@ -35,7 +35,7 @@ I've now printed about 11 of the required 29 build plates full of parts. The pho
 
 I went back to my now favorite hobby shop, and picked up 4 tyres and a Fly Sky FS-GT2B transmitter and receiver.
 
-Very happy with the tyres, as they have the same look as the BFGoodrich's I have on my lifesize Landy.
+Very happy with the tyres, as they have the same look as the BFGoodrich's I have on my lifesize Landy, but for a very reasonable price.
 
 <x-image src="/assets/img/progress/7.jpg" title="Rear fenders and tail lights done" />
 
