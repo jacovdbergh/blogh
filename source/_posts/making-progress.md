@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Making progress
-date: 2021-07-29
+date: 2021-08-09
 description: More printing and assembling of parts.
 excerpt: More printing and assembling of parts.
 categories: [rc-landy,3d-printing]
