@@ -6,6 +6,7 @@ date: 2021-07-29
 description: Printing and assembling the first parts.
 excerpt: Printing and assembling the first parts.
 categories: [rc-landy,3d-printing]
+cover_image: /assets/img/started.jpg
 
 ---
 

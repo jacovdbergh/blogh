@@ -6,6 +6,7 @@ date: 2021-08-09
 description: More printing and assembling of parts.
 excerpt: More printing and assembling of parts.
 categories: [rc-landy,3d-printing]
+cover_image: /assets/img/progress.jpg
 
 ---
 
