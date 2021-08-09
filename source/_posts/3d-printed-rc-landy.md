@@ -11,8 +11,6 @@ featured: true
 
 ---
 
-*Last updated 26 July 2021*
-
 ## Introduction
 
 I've had my Creality Ender 3 Pro for ~2.5 years now, and have printed a range of useful and interesting things. But I've not yet printed something **big** with it. Other people print helmets or swords from games and other fantasy worlds, but those have never resonated with me.
@@ -38,8 +36,6 @@ A short list of its most exciting features:
 ## Sourcing parts
 
 This is still an ongoing task, as it's not that easy to find everything you need for the model in South Africa. And shipping costs from Aliexpress/Amazon is too high to just conveniently order it all.
-
-So this section will still be expanded as I manage to find all the parts I need.
 
 ### Filament
 The build guide states you need ~3kg of PLA to print this model; 2kg for the chassis and gearbox/drivetrain, and 1kg for the body.
