@@ -4,7 +4,7 @@
     @foreach ($posts->where('featured', true) as $featuredPost)
         <div class="w-full mb-6">
             @if ($featuredPost->cover_image)
-                <div class="max-w-lg mx-auto mb-6">
+                <div class="max-w-2xl mx-auto mb-6">
                     <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image">
                 </div>
             @endif
