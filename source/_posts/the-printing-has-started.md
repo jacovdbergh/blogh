@@ -10,7 +10,7 @@ cover_image: /assets/img/started.jpg
 
 ---
 
-This is post #2 on this project, [here's an index of them all.](/blog/landy-index)
+This is post #2 on this project, [here's a list of them all.](/blog/landy-index)
 
 ---
 
