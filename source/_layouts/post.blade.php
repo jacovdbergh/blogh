@@ -6,7 +6,7 @@
 
 @section('body')
     @if ($page->cover_image)
-        <div class="max-w-lg mx-auto mb-2">
+        <div class="max-w-2xl mx-auto mb-2">
             <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image">
         </div>
     @endif
