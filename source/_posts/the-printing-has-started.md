@@ -10,6 +10,10 @@ cover_image: /assets/img/started.jpg
 
 ---
 
+This is post #2 on this project, [here's an index of them all.](/blog/landy-index)
+
+---
+
 The first step in the build requires 5 plates to be printed for assembly.
 
 They are taking about 20 hours per plate.

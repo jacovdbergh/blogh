@@ -10,6 +10,10 @@ cover_image: /assets/img/progress.jpg
 
 ---
 
+This is post #3 on this project, [here's an index of them all.](/blog/landy-index)
+
+---
+
 I've now printed about 11 of the required 29 build plates full of parts. The photos speak for themselves, so I won't waste your time with too much text this time round.
 
 <x-image src="/assets/img/progress/1.jpg" title="Chassis parts done" />

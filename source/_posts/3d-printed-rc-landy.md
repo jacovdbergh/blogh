@@ -11,6 +11,10 @@ featured: true
 
 ---
 
+This is post #1 on this project, [here's an index of them all.](/blog/landy-index)
+
+---
+
 ## Introduction
 
 I've had my Creality Ender 3 Pro for ~2.5 years now, and have printed a range of useful and interesting things. But I've not yet printed something **big** with it. Other people print helmets or swords from games and other fantasy worlds, but those have never resonated with me.
