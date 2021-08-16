@@ -1,12 +1,12 @@
 ---
 extends: _layouts.post
 section: content
-title: Making progress
+title: Gearbox and ball joints
 date: 2021-08-09
-description: More printing and assembling of parts.
-excerpt: More printing and assembling of parts.
+description: Printing and reprinting the gears, gearbox housing and ball joints.
+excerpt: Printing and reprinting the gears, gearbox housing and ball joints.
 categories: [rc-landy,3d-printing]
-cover_image: /assets/img/progress.jpg
+cover_image: /assets/img/balls-and-gears/motor.jpg
 
 ---
 
