@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Gearbox and ball joints
-date: 2021-08-09
+date: 2021-08-16
 description: Printing and reprinting the gears, gearbox housing and ball joints.
 excerpt: Printing and reprinting the gears, gearbox housing and ball joints.
 categories: [rc-landy,3d-printing]
