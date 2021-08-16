@@ -6,7 +6,7 @@ date: 2021-08-16
 description: Printing and reprinting the gears, gearbox housing and ball joints.
 excerpt: Printing and reprinting the gears, gearbox housing and ball joints.
 categories: [rc-landy,3d-printing]
-cover_image: /assets/img/balls-and-gears/motor.jpg
+cover_image: /assets/img/gears-and-balls/motor.jpg
 
 ---
 
@@ -21,7 +21,7 @@ Combine that with some silly mistakes of my own, and you get a dustbin full of m
 
 ## Gearbox
 
-<x-image src="/assets/img/balls-and-gears/printing-gears.jpg" title="Printing gearbox and gears" />
+<x-image src="/assets/img/gears-and-balls/printing-gears.jpg" title="Printing gearbox and gears" />
 
 The first obvious mistake (looking back), was to print the gears with 20% infill.
 Kind of blaming the build guide for that, because they did not mention anything about 100% infill for gears on that specific page.
@@ -34,15 +34,15 @@ I don't have a lot of faith that the eSun PLA+ I'm using for this is going to ho
 
 These gears that are a smidge too small were already fitting quite tightly in the housing, so I decided to use them for this first attempt, and keep the 100.5% for later if needed.
 
-<x-image src="/assets/img/balls-and-gears/assembled.jpg" title="Loosely ssembled with 100% infill and 100% size gears" />
+<x-image src="/assets/img/gears-and-balls/assembled.jpg" title="Loosely ssembled with 100% infill and 100% size gears" />
 
 <p></p>
 
-<x-image src="/assets/img/balls-and-gears/grease.jpg" title="With grease and all bearings, motor attached" />
+<x-image src="/assets/img/gears-and-balls/grease.jpg" title="With grease and all bearings, motor attached" />
 
 <p></p>
 
-<x-image src="/assets/img/balls-and-gears/in-chassis.jpg" title="All assembled and fit into chassis" />
+<x-image src="/assets/img/gears-and-balls/in-chassis.jpg" title="All assembled and fit into chassis" />
 
 The gearbox is noisy as hell, which means lots of friction, which means heat... So will see how long it lasts, but at least it works for now.
 
@@ -56,10 +56,10 @@ Second was with regular PLA, where the ball joints just flattened when I tried t
 
 Third was with PLA+ again, with the arms at 100.5% scale and the ball joints at 100%. I also learned about randomizing the z-seam in Cura, which helped prevent the arms from splitting when pressing in the ball joints.
 
-<x-image src="/assets/img/balls-and-gears/joints-and-arms.jpg" title="Working ball joints assembled and attached to chassis" />
+<x-image src="/assets/img/gears-and-balls/joints-and-arms.jpg" title="Working ball joints assembled and attached to chassis" />
 
 <p></p>
 
-<x-image src="/assets/img/balls-and-gears/joints-and-arms-again.jpg" title="Another view" />
+<x-image src="/assets/img/gears-and-balls/joints-and-arms-again.jpg" title="Another view" />
 
 I've now started with printing the interior of the Landy, which will take a couple of days before I can start assembly.
