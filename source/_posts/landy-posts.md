@@ -11,3 +11,4 @@ excerpt: A table of contents for all posts about the 3D printed Landy
  2. [The printing has started](/blog/the-printing-has-started)
  3. [Making progress](/blog/making-progress)
  4. [Gearbox and ball joints](/blog/gearbox-and-ball-joints)
+ 5. [Electronics, seats and more body](/blog/electronics-seats-body)

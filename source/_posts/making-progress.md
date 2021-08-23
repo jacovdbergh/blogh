@@ -10,7 +10,7 @@ cover_image: /assets/img/progress.jpg
 
 ---
 
-This is post #3 on this project, [here's a list of them all.](/blog/landy-index)
+This is post #3 on this project, [here's a list of them all.](/blog/landy-posts)
 
 ---
 

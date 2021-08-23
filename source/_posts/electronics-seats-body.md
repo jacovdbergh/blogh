@@ -10,7 +10,7 @@ cover_image: /assets/img/electronics-seats-body/motor.jpg
 
 ---
 
-This is post #5 on this project, [here's a list of them all.](/blog/landy-index)
+This is post #5 on this project, [here's a list of them all.](/blog/landy-posts)
 
 ---
 
