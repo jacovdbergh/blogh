@@ -70,4 +70,8 @@ The fenders also needed a brim to print without lifting at the edges. Turned out
 
 The bumpers were the last parts to print and install before the intricate axle building starts.
 
-<!-- Bumper foto hier -->
+<x-image src="/assets/img/electronics-seats-body/rear-bumper.jpg" title="Rear bumper installed" />
+
+<p></p>
+
+<x-image src="/assets/img/electronics-seats-body/front-bumper.jpg" title="Front bumper installed" />
