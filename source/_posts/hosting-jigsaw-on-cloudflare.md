@@ -104,7 +104,7 @@ jobs:
           apiToken: ${{ secrets.CF_API_TOKEN }}
 ```
 
-In your project's settings on GitHub, create a new secret (https://github.com/your-/blogh/settings/secrets/actions) called `CF_API_TOKEN`, pasting the CloudFlare API token we created earlier.
+In your project's settings on GitHub, create a new secret (https://github.com/you/your-blogh/settings/secrets/actions) called `CF_API_TOKEN`, pasting the CloudFlare API token we created earlier.
 
 And that's it!
 
