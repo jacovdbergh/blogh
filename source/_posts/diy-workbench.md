@@ -5,6 +5,7 @@ title: Building a workbench for my home office
 date: 2021-11-09
 description: My electronics/hobby table in my home office is a mess. So I built a better workbench instead.
 excerpt: My electronics/hobby table in my home office is a mess. So I built a better workbench instead.
+cover_image: /assets/img/diy-workbench/done.jpg
 ---
 
 My [3D printed Land Rover project](/blog/landy-posts/) has hit a roadblock; I need to reprint the gearbox in something stronger and more suited for high temperatures.
