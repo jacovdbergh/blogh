@@ -7,7 +7,7 @@ description: My electronics/hobby table in my home office is a mess. So I built 
 excerpt: My electronics/hobby table in my home office is a mess. So I built a better workbench instead.
 ---
 
-My 3D printed Land Rover project has hit a roadblock; I need to reprint the gearbox in something stronger and more suited for high temperatures.
+My [3D printed Land Rover project](/blog/landy-posts/) has hit a roadblock; I need to reprint the gearbox in something stronger and more suited for high temperatures.
 
 But I haven't gotten round to sourcing that, so my hobby/electronics table in my home office has been in the below state for about a month.
 
